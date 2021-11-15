@@ -1,6 +1,6 @@
 # eth-fronted-demo
 
-## 需要先在本地使用ganache-cli部署好私链
+## you need to deploy the private chain locally using ganache-cli first
 ```
 ganache-cli
 ```
