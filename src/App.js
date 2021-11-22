@@ -61,7 +61,6 @@ function App() {
         var output = "";
         if (!err) {
             output += res;
-          this.txHash=res
         } else {
             output = "Error"+err;
         }
